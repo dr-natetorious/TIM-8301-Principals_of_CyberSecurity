@@ -5,3 +5,10 @@ When a retailer opens a physical storefront, there are several inherent risks to
 Home users want to privately surf the internet, chat with friends, and make online purchases securely and reliably.  Numerous threats exist
 
 Mickens (2018) states, “the goal of computer security is to ensure that systems do the right thing, even in the presence of malicious inputs.”  Th
+
+## challenges
+
+
+	
+
+	The interconnected nature of modern businesses, across a hybrid of technologies, creates protecting these incredibly complex systems challenging.  Vulnerabilities and configuration errors exist in all levels of the network topology.  For instance, low-level routers and switches require policies that monitor traffic, enforce authorization and encryption, and ensure Quality of Service (QoS) objectives.  Next, critical infrastructure services like Domain Name Services (DNS) and Lightweight Directory Access Protocol (LDAP) can cascade failures and cause widespread outages.  Numerous network applications span the local and cloud infrastructure, leveraging proprietary communication protocols that occur inside of encrypted channels, making inspection difficult.  Employees also represent critical targets
