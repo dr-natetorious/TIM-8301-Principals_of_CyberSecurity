@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/*.o
+**/bin/*
+**/~*.docx
+**/~*.pptx
+**/~*.tmp
+**/~*.xlsx
+**/a.out
+**/obj/*
+**/.vs/*
+**/src/out/
+**/*.class
+**/.ipynb_checkpoints
+**/Week2_Usefulness_DataMining/OpenNYC/*.csv
+**/*.csv
