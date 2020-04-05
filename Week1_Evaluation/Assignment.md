@@ -4,7 +4,7 @@ Having reviewed the articles and websites for this week, create a Word document 
 
 ## Part 1: A Significant Problem (3 points)
 
-Based on your learning and exploration to date, decide on what you believe to be an important area for research— an area in which important improvements need to be made and where you can discover better techniques for success. The objective of this portion of your assignment is to start thinking about what you might research as part of your degree completion. While it is not important to finalize your research topic at this time, it is important to start thinking about it. Over time, you will polish and synthesize this problem and you are likely to accumulate knowledge and literature about the problem area. This part of your assignment will aid multiple courses in your degree. 
+Based on your learning and exploration to date, decide on what you believe to be an important area for research— an area in which important improvements need to be made and where you can discover better techniques for success. The objective of this portion of your assignment is to start thinking about what you might research as part of your degree completion. While it is not important to finalize your research topic at this time, it is important to start thinking about it. Over time, you will polish and synthesize this problem and you are likely to accumulate knowledge and literature about the problem area. This part of your assignment will aid multiple courses in your degree.
 
 1. Provide a brief introduction, 
 2. then describe the general problem area, 
