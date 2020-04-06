@@ -27,3 +27,9 @@ Mickens (2018) states, “the goal of computer security is to ensure that system
 1.	Define risk management protocols
 2.	Limit the scope of escalations
 3.	Ensuring SLA and QoS features
+
+
+## role of assessment
+
+1.	Validate that design == implementation
+2.	Confirm expected versus in acted risks
