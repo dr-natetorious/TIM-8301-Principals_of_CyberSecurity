@@ -83,11 +83,14 @@
     - Password Policies
     - Training
     - Building trust into the process
-15. Addressing insider risks
+15. Conclusion
+
+## Merge these ideas into above
+
+1. Addressing insider risks
     - Negligence: Lose an unencrypted device
     - Malicious: Steals corporate data for revenge or profit
-16. Protecting corporate assets
+2. Protecting corporate assets
     - Backups
     - Fail-over
     - Quotas
-17. Conclusion
