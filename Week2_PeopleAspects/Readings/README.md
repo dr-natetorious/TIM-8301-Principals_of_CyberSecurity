@@ -36,18 +36,22 @@ The general approach uses a Microsoft Kinect to create the 3-D facial map, then 
 
 ## Hacking into China's Cybersecurity Law (2018)
 
-In _Wake Forest Law Review, 53(1), 57-104_; [Lee, J](ChinaSecurityLaws.pdf)
+In _Wake Forest Law Review, 53(1), 57-104_; [Lee, J](ChinaSecurityLaws.pdf) provides a historic analysis that fed into China's desire for an abstract policy around cybersecurity.  This approach enables the country to make sweeping changes around any scenario that they disagree with, under the disguise of safety.  This has created specific challenges for other countries as it forces them to make the decision that business with china means handing over control to china. [Krebs, C](../Week1_Evaluation/Readings/Keynotes/ICCE2019.md) also touches on this point, stating that organizations need to enter these agreements with eyes wide open.
+
+To their credit there are several advantages around projecting the notion of national sovereignty into the digital world.  Since the infrastructure runs in China, they want the data contained within those systems to follow a similar fate.  With the requirement to store information in China under their control it also protects the chinese people, because they cannot lose their data due to a political dispute with e.g., USA.  Even if Trump huffs and puffs, there is no risk to busines continuity of the technology consumers.  
+
+It also means that rights of search and seizure are rigid on the Internet, and we need to consider the influence of Geography on the digital landscape.  This also aligns with [Moss](../Week1_Evaluation/Readings/Keynotes/Blackhat2019.md)'s observations that we are trending towards many Internets instead of a global network.
 
 ## The Role of Human Factors/Ergonomics in the Science of Security: Decision Making and Action Selection in Cyberspace (2015)
 
-In _Human Factors 2015 Aug; Vol. 57 (5), pp. 721-7_; [Proctor, RW; Chen, J](ScienceSecurityDecisionMaking.pdf)...
+In _Human Factors 2015 Aug; Vol. 57 (5), pp. 721-7_; [Proctor, RW; Chen, J](ScienceSecurityDecisionMaking.pdf) explores the challenges with humans determining that a resource is real or spoofed.  For instance, phishing attacks continue to be highly effective because our decision process does not properly identify these risks.  Similar challenges also arise from mobile apps and our inability to make accurate security critical decisions.
 
 ## Addressing Malware WITH Cybersecurity Awareness (2017)
 
-In _ISSA Journal. Oct2017, Vol. 15 Issue 10, p16-22. 7p._; [Valiente, C](AddressingMalwareAwareness.pdf)...
+In _ISSA Journal. Oct2017, Vol. 15 Issue 10, p16-22. 7p._; [Valiente, C](AddressingMalwareAwareness.pdf) nicely articulates the distribution of problems as 50% criminal, 25% technical glitches and 25% human error.  While it can be difficult to address the criminals, building reliable and fault tolerant systems is well within our wheel house.  Similarly, educating humans to be more causious and be aware of the risks that can arise from their actions significantly reduces the attack surface.  Businesses should be laser focused on these aspects as a means to mitigate risk.
 
 ## Individual differences in cyber security behaviors: an examination of who is sharing passwords (2015)
 
-In _Cyberpsychology, Behavior And Social Networking 2015 Jan; Vol. 18 (1), pp. 3-7_; [Whitty et al.](SharingPasswords.pdf)
+In _Cyberpsychology, Behavior And Social Networking 2015 Jan; Vol. 18 (1), pp. 3-7_; [Whitty et al.](SharingPasswords.pdf) examines the scenarios that cause password sharing.  They conclude that psychology plays an important role in answering why users share passwords.
 
-## 
+![sharing.png](sharing.png)
