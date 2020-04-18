@@ -100,4 +100,6 @@ In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 2, p113-120. 8p._; 
 
 ## Countering Cyber-Espionage and Sabotage (2014)
 
-In _RUSI Journal: Royal United Services Institute for Defence Studies, 159(1), 86-93_; [Matsubara, M](CounteringCyberEspionage.pdf)
+In _RUSI Journal: Royal United Services Institute for Defence Studies, 159(1), 86-93_; [Matsubara, M](CounteringCyberEspionage.pdf) reviews the partnerships between Japan and the UK around foreign policy and sharing national security concerns. 
+
+> [B]oth countries must pursue balanced diplomacy and security strategies to meet their national defence requirements and to ensure supplies of external resources.
