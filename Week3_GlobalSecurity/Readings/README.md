@@ -2,7 +2,25 @@
 
 ## CYBER ESPIONAGE AND ELECTRONIC SURVEILLANCE: BEYOND THE MEDIA COVERAGE (2017)
 
-In _Emory Law Journal; 2017, Vol. 66 Issue 3, p513-525, 13p_; [Banks, W](CyberEspionageBeyondMedia.pdf)...
+In _Emory Law Journal; 2017, Vol. 66 Issue 3, p513-525, 13p_; [Banks, W](CyberEspionageBeyondMedia.pdf) describes the duality of the Internet as both a mechanism for increasing communication while decreasing privacy.  Espionage attacks occur in high volumes against individuals, corporations, and nations.  These attackers steal intellectual property, something that was not taken seriously until the 2007 theft of Google's source code.
+
+The US sued the Peoples Liberation Army but did not have the jurisdiction to charge Chinese nationals in China-- their govt argued that it was no different than what americans do to them.  According to China, spying on public or private organizations is the samething, and since the US actively spied on Chinese public institutions there is no real difference.   This perspective ties into arguments by Matsubara(2014)(see below).  Without consistent vocabulary, the rules will never be consistent.  In 2015, China and US agreed to a treaty where Chinese state sponsored espionage would decellerate, and PLA members that moonlight stealing trade secrets for sell on the black market would be arrested.
+
+ISIS has been successful with their media campaign that broadcasts aspects of their message far and wide.  The remainder has remainded in the shadows, predominately due a heavy dependence on encryption.
+
+### What is the role of International law
+
+Countries are good at enforcing laws that apply to their citizens interacting with their local hardware.  However, when an attack takes place outside the border, then it becomes a matter of International law.  These laws are more of guidelines, and unless sovereignty of a specific nation is violated, no one really cares -- wild west.
+
+For the most part countries tolerate spying because they all do it, but spying in cyberspace is unbalanced with more developed nations have more resources to carry sophisticated monitoring everywhere.
+
+The alternative perspective states that U.N. Charter Article 51 self-defense rights. Preparing for and anticipating an armed attack is critically important in the modern world, the argument goes. If not affirmatively allowed as an adjunct to Article 51, others maintain that espionage has been recognized by widespread state practice and thus is supported by a norm of customary international law.
+
+### How can we improve this scenario
+
+The authors argue that states should have different rules for spying on public versus private institutions.  While there is merit in governments needing information for defence, stealing from the private sector and enforcing rules to ensure sovertigty does not cut it.  They highlight that international intellectual property theft costs the global economy between 3-600 billion annually.
+
+However, this perspective employees a very Western view.  For socialist countries, the distinction is more fuzzy than a pure capalist society, and without a well defined border the rules cannot be enforced.  In a lot of ways, this would be like saying that spying on the Department of Motor Vehicles (DMV) is OK but not Department of Transportation (DOT).
 
 ## The Role of Healthcare Technology Management in Facilitating Medical Device Cybersecurity (2017)
 
