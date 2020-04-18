@@ -60,7 +60,20 @@ While these approaches prevent legitimate businesses and research, it does not p
 
 ## China’s Three Warfares Strategy Mitigates Fallout From Cyber Espionage Activities (2016)
 
-In _Journal of Strategic Security, Vol 9, Iss 2, Pp 47-71 (2016)_; [Emilio, I](ChinaWarfare.pdf)
+In _Journal of Strategic Security, Vol 9, Iss 2, Pp 47-71 (2016)_; [Emilio, I](ChinaWarfare.pdf) states that China has three fronts to its cyberwarfares strategy: `media, legal, and psychological`-- and uses these to influence the international community and delay effective mitigations.  So far they have been fairly successful, delivering on time according to defense timelines and minimizing any real sactions.
+
+### What is Chinas national objective
+
+China has three primary national security objectives: Sustaining regime survival, defending national sovereignty and territorial integrity, and establishing China as both a regional and national power.  China views the United States with a cautious mix of skepticism, partnership, and competition.
+
+### How does this align with their culture
+
+China has a culture that centers around building relations and showing good face.  While this seems to contradict the perspective that they are openly hacking the internet, this is easy for the two mindsets to run parallel.  This is because the attacks are non-violent methods to subdue the enemies.
+
+- *Psychological Warfare* – Undermines an enemy’s ability to conduct combat operations through operations aimed at deterring, shocking and demoralizing the enemy military personnel and supporting civilian populations.
+- *Public Opinion/Media Warfare* – Influences domestic and international public opinion to build support for China’s military
+actions and dissuade an adversary from pursuing actions contrary to China’s interests.
+- *Legal Warfare* – Uses international and domestic law to claim the legal high ground or assert Chinese interests. It can be employed to hamstring an adversary’s operational freedom and shape the operational space. Legal warfare is also intended to build international support and manage possible political repercussions of China’s military actions.
 
 ## CYBERSECURITY -- the No. 1 threat facing manufacturers (2018)
 
