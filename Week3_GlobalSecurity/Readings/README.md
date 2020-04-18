@@ -116,7 +116,7 @@ The authors also suggest that by embracing the lack of `sovereignty` across the 
 
 ## Cyber espionage. China's Cyber Power (2015)
 
-In _Adelphi Series (Vol. 55, pp. 51-82)_; [Inkster, N](ChinaCyberPower.pdf)
+In _Adelphi Series (Vol. 55, pp. 51-82)_; [Inkster, N](ChinaCyberPower.pdf) describes how between 1994-2014 China grew to be an enormous presence on the Internet, with four of the top ten Internet businesses Chinese.  President Xi has made it a mission to place China on the forefront of governance and take control of the previously American centric technology.  Putin has also made multiple UN Resolutions (1998) to frame the Internet as a military weapon, and this gives them the right to control and regulate it.  Other authoritarian states jumped on the bandwagon and immediately began to kill the notion of an internet without borders, and instead focus on mechanisms to protect their sovereignty.  Meanwhile democratic nations promoted the idea of removing censorship and making security the central issue.
 
 ## The birth of cyberwar (2015)
 
