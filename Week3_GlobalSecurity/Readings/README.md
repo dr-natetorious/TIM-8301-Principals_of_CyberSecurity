@@ -96,7 +96,19 @@ In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 1, p16-24. 9p._; [K
 
 ## NATIONAL CYBER SECURITY AS THE CORNERSTONE OF NATIONAL SECURITY (2018)
 
-In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 2, p113-120. 8p._; [Kovacs, L](CyberSecurityCornerstone.pdf)
+In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 2, p113-120. 8p._; [Kovacs, L](CyberSecurityCornerstone.pdf) points out that each nation is independently creating a cybersecurity strategy, and a lack of consistency causes there to be gaps in the implementations.  This issues really comes back to another pivot of the Internet has no borders but the infrastructer does very much so.
+
+Countries that are more advanced have more attack surface and need more mature processes, but that does not mean that developing countries should not have solutions.  The level of involvement from the government varies significantly, such as UK acknowledges that private industry is better suited and should innovate while govt focuses on least common denominator.  However, other countries like Russian and China do not see such as clear separation between public and private industries.  Without commonality, a once sizes fits all cannot exist and _multinational corporations are stuck navigating through complex legal and poltical processes_.
+
+### What are policy continuums
+
+There are many aspects of security that represent policy continuums versus discrete yes/no decisions.  Consider data sharing vs protection and how they are at odds with each other.  Freedom of speech and govt stability also influence what are acceptable usages of products in `culturally sensitive contexts`.  Per country policy, the location within that continuum needs to account for [1] govenrment, [2] society, and [3] international actors-- where givening power to one requires taking it from the other two. 
+
+### How can we move towards commonality
+
+The _European Union Agency for Network and Information Security_ is a guidebook of best practices and that expert panels have proposed.  While there is no guarantee that nations will end at similar policies, having a common starting point results in similar themes.  Perceived costs and political disagreement prevent this model from being perfect.  However, by at incorporating shared values it simplifies future integrations and sharing processes across national borders. 
+
+![enisa.png](enisa.png)
 
 ## Countering Cyber-Espionage and Sabotage (2014)
 
