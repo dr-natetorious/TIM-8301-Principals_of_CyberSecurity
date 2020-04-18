@@ -94,7 +94,7 @@ Instead, international security policy needs to break away from a mindset that i
 
 While deterrance in the physical world is a well understood problem, it does not apply to the digital universe.  The authors recommend instead that the US govt should be on a warpath, and operate as a persistent that "pwns for the lulz."  They suggest moving by transitioning away from restraint towards force, it recreates the notion of deterrence through real force.  While escalation in the physical world would result in physical war, in the digital world there attacks can turn off systems instead of destroy them.
 
-The authors also suggest that by embracing the lack of `sovereignty` across the Internet, they could freely move about with impunity.  What could possibly go wrong here?   While it is an interesting(?) idea, its suspecious that anyone would be safer.
+The authors also suggest that by embracing the lack of `sovereignty` across the Internet, they could freely move about with impunity.  What could possibly go wrong here?   While it is an interesting(?) idea, its suspecious that anyone would be safer for the same reasons that full aggression are not helpful.
 
 ## Cyber espionage. China's Cyber Power (2015)
 
@@ -102,7 +102,7 @@ In _Adelphi Series (Vol. 55, pp. 51-82)_; [Inkster, N](ChinaCyberPower.pdf)
 
 ## The birth of cyberwar (2015)
 
-In _Political Geography Volume 46, May 2015, Pages 11-20_; [Kaiser, R](BirthCyberwar.pdf)
+In _Political Geography Volume 46, May 2015, Pages 11-20_; [Kaiser, R](BirthCyberwar.pdf) before 2007, the idea of cyberwar was more theortical risk than an actuality, when events in Tallinn "fired the imagination."  Part of the reason why this event gained such attention is that _Live Free, or Die Hard_ was playing in theatres at the time.  The movie features Bruce Willis versus a cybersecurity ex-military villian that compromises the US infrastructure -- which was very similar to the events occurring in Tallinn (Estonia).  After handling those attacks and gaining wide spread media attention, Estonia became the global experts for dealing with an attack.
 
 ## CYBER SECURITY POLICY AND STRATEGY IN THE EUROPEAN UNION AND NATO. (2018)
 
