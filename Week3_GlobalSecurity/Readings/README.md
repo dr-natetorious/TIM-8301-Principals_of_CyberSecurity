@@ -124,7 +124,17 @@ In _Political Geography Volume 46, May 2015, Pages 11-20_; [Kaiser, R](BirthCybe
 
 ## CYBER SECURITY POLICY AND STRATEGY IN THE EUROPEAN UNION AND NATO. (2018)
 
-In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 1, p16-24. 9p._; [Kovacs, L](PolicyStrategyEuropeanUnion.pdf)
+In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 1, p16-24. 9p._; [Kovacs, L](PolicyStrategyEuropeanUnion.pdf) recalls that in 2008 Europe needed a forward looking strategy to get out of the Great Recession.  A core pillar of the Europe 2020 program centered around a digital economy that was safe, secure, and highly reliable.  
+
+In 2013, the European Security Strategy formalized these ambitions, specifically (European Commission, 2013, p. 4):
+
+- Achieving cyber resilience,
+- Drastically reducing cybercrime,
+- Developing cyber defence policy and capabilities related to the Common Security and Defence Policy (CSDP),
+- Develop the industrial and technological resources for cybersecurity,
+- Establish a coherent international cyberspace policy for the European Union and promote core EU values
+
+The security posture of the EU continues to evolve from these expectations, including such policies as General Data Protection Regulation (GDPR), which seeks to protect the soverignty of the EU by allowing it to enforce legal mandates.  Since the infrastructure is local to their nation this becomes much easier and avoids the need to fight with international laws.
 
 ## NATIONAL CYBER SECURITY AS THE CORNERSTONE OF NATIONAL SECURITY (2018)
 
