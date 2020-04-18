@@ -102,4 +102,23 @@ In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 2, p113-120. 8p._; 
 
 In _RUSI Journal: Royal United Services Institute for Defence Studies, 159(1), 86-93_; [Matsubara, M](CounteringCyberEspionage.pdf) reviews the partnerships between Japan and the UK around foreign policy and sharing national security concerns. 
 
-> [B]oth countries must pursue balanced diplomacy and security strategies to meet their national defence requirements and to ensure supplies of external resources.
+> [B]oth countries must pursue balanced diplomacy and security strategies to meet their national defence requirements and to ensure supplies of external resources. [...] Since the Japanese and UK governments are pursuing stronger defence and economic partnerships,
+one country’s vulnerability in the cybersphere could pose a risk to the other, such as disruption to business or military operations. Thus, cyber-security co-operation is crucial for their economic prosperity, social welfare and national security.
+
+### Why are international partnerships complex
+
+1. A consistent definition of cyber-attacks does not exist in the international community, which causes regulation and compliance requirements to vary between different localities.  For instance, in one country there maybe an expectation that data leaks are reported in a timely manner, while another might only require reporting under very specific scenarios.  This creates scenarios where even transparent organizations might be omitting critical details because they are not relevant in their culture (see [Week1 Moss](../../Week1_Evaluation/Readings/Keynotes/Blackhat2019.md)).
+
+2. Due to security being a cross-cutting concern, there can also be multiple stakeholders with different interpretations of the rules.  These differences can lead to compliance and reporting requirements varying even between business units (e.g., Department of Finance vs Commerce).  It can also cause jurisdiction disputes over who see information or take point on investigations.
+
+3. The Internet is borderless but its infrastructure is highly geographical and must adhere to nationally specific laws.  These laws often differ between the location of the attacker and victim, and require International cooperation to assembly sufficient evidence.  Getting access to that information is challenging due to a distrust between nationalities and concerns of disclosing vulnerabilities in their own topologies.
+
+## How can we improve the odds for success
+
+> To overcome these complexities, therefore, any sound scheme for international cyber-security co-operation must begin with at least the following two foundational steps: [1] detailed scoping of the area for co-operation, including at least the general objectives,  specific types of information to be shared, according to which criteria and under what circumstances; and [2] the completion of a mutually credible agreement on information assurance to protect national secrets.
+
+If both organizations share the same `core political values`, there is a greater probability of overlapping outcomes.  For instance, when both nations can establish similar laws and legal definitions, then it becomes easier to share communications as the risks are comparable (e.g., intellectual property protections).
+
+## Where do these issues butt-heads
+
+The two most critical areas to overlap on agreement are: [1] cyber-espionage and [2] cyber-sabotage.  Even well intentioned deviations, like the CDC protecting membership rosters, creates a distrust between nations and impacts the flow of conversations.  Some nations, such as Japan, do not have a well-defined security clearance protocol, which can introduce challenges sharing even across departments.  There can also be multiple competing _sources of truth_, and this decentralized model can lead to ambigity. 
