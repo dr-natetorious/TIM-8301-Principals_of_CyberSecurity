@@ -24,7 +24,21 @@ In [TIM-7020 Week 6](https://github.com/dr-natetorious/TIM-7020-Database_and_Bus
 
 ## ZERO-DAY RESPONSIBILITY: THE BENEFITS OF A SAFE HARBOR FOR CYBERSECURITY RESEARCH (2017)
 
-In _Jurimetrics: The Journal of Law, Science & Technology. Summer2017, Vol. 57 Issue 4, p483-503. 21p._; [Emery, A](ZeroDayResponsibility.pdf)
+In _Jurimetrics: The Journal of Law, Science & Technology. Summer2017, Vol. 57 Issue 4, p483-503. 21p._; [Emery, A](ZeroDayResponsibility.pdf) states that zero-day exploits, _there are zero days in which to prepare for the threat_, are openly sold on the internet.  The national defence department and criminal organizations, purchase large quantities of these issues for survaillence.  A core challenge with regulating this industry is that it requires an overhaul of the cybersecurity laws, so the authors propose leveraging tort laws (see [LAW531 Week 2](https://github.com/dr-natetorious/LAW-531_Business_Law/tree/master/Week2_Torts)).  Another challenge comes from `awareness` that these zero-day attacks are launched against individuals, corporations, and governments through _spray attacks_ (eg., drive by exploitation) and there is significant risk.
+
+### What is a software vulnerability
+
+> According to Microsoft Security Response Center [a vulnerability] is "a weakness in a product that could be used by an attacker to compromise the integrity, availability, or confidentiality of that product."
+
+These issues originate from poor configurations, software design flaws, code defects, and missing features.
+
+### How are zero-days regulated today
+
+1. Calling on criminal law to regulate the market (e.g., Computer Fraud and Abuse Act)
+2. Proposing liability to developers that release zero-days (eg, sue for negligence of release and vendor)
+3. Advocating for export controls and laws to regulate trafficing (eg. Waasenaar Arrangements)
+
+While these approaches prevent legitimate businesses and research, it does not prevent malicious actors nor nation states.  Responsible research is necessary for the legitimate actors to build protections into their systems and create security guarentees.  When legislatures propose suing the vendors for allowing the defect in the first place, this is a slippery slope, because building error free applicaitons is near impossible.  Even relatively obvious issues are often only visible after the fact.  Another challenge with legal processes is that they move substantually slower than technical innovation, and are unlikely to keep pace with a rapidly evolving landscape.
 
 ## China’s Three Warfares Strategy Mitigates Fallout From Cyber Espionage Activities (2016)
 
