@@ -6,7 +6,15 @@ In _Emory Law Journal; 2017, Vol. 66 Issue 3, p513-525, 13p_; [Banks, W](CyberEs
 
 ## The Role of Healthcare Technology Management in Facilitating Medical Device Cybersecurity (2017)
 
-In _Biomedical instrumentation & technology 2017 Sep 02; Vol. 51 (s6), pp. 19-25._; [Busdicker, M; Upendra, P](MedicalDeviceSecurity.pdf)
+In _Biomedical instrumentation & technology 2017 Sep 02; Vol. 51 (s6), pp. 19-25._; [Busdicker, M; Upendra, P](MedicalDeviceSecurity.pdf) discusses patterns and practices for adding security into medical devices in the presence of finite resources.  Despite nearly 41% of medical device manufactures agreeing that: _within one year an attack against their product was likely_, only 17% has taken significant steps to prevent it.
+
+These attacks have evolved from information theft into `ransomware`, where the sensitive data is encrypted and the malware authors then sell the decryption key.  The unavailability of both data and technology systems in health care, can introduce undue harm to patients and prevent them receiving time sensitive attention.
+
+Mitigating these attacks requires better communication across the ecosystem, from the device manafactures to the IT staff that support them in production.  `Awareness` of proper lifecycle management can reduce the attack surface and lessen the chances of compromise.  For instance, the devices require patching and archival solutions.  When these _internal solutions_ are not available, then an _external solution_, like network access controls (NACL) must exist to provide those security guarantees.  These solutions are not limited to technical systems, but also require manual inspection and inventory.
+
+Communication also means sufficient training of non-technical staff, so they know the dangers associated with decisions. For example, a nurse might connect a sensitive device to the guest WiFi instead of a secure Access Point (AP).  While this has resolved the connectivity issue it also allows for malware to discover and interact with it.  Later, moving the device back to the private network could bring that malware into the trusted environment.
+
+The lifecycle management does not end with the device being turned off.  It needs to exend through a secure termination and destruction process, so that private information does not leak into the physical recycle bin.
 
 ## Unhackable quantum networks take to space [News] (2017)
 
