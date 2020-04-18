@@ -80,7 +80,21 @@ The organization needs to define the risks towards its continutity, and then fro
 
 ## Deterrence is Not a Credible Strategy for Cyberspace (2017)
 
-In _Orbis Volume 61, Issue 3, 2017, Pages 381-393; [Fischerkeller, M; Harknett, R](Deterrence.pdf)
+In _Orbis Volume 61, Issue 3, 2017, Pages 381-393_; [Fischerkeller, M; Harknett, R](Deterrence.pdf) states that military might heavily rely on the notion of `deterrence`, which says if someone attacks us we'll retalliate 100x fold.  The US cybersecurity doctorane continues to follow this mentality; even though it does not logically align with the structure of the Internet.  Not only are many threat actors small groups, but there is a low barrier to entry.  Due to the ubiquitous access to cloud technologies, anyone with a few bucks can harness thousands of compute cores.  The landscape has drastically changed to not being about planes and tanks, instead, its the wild west where anyone can become someone.
+
+### What are the influences from historical solutions
+
+Another challenge comes from most foreign policy is built ontop of the Thirty-Years War Treaty (central Europe 1618-48), which declares that no country should show force, and this `operational restraint`.  However, many groups (individual and national), are finding that aggressive positions are more effective at maintaining control.  Since, there is no consistent definition of cyberattacks, how can there be shared agreement of behavioral norms?
+
+After World War II (WWII), a similar mentality continues but from the perspective of `cost/benefit analysis`-- that builds systems where it costs 10$ to get 1$ value.  This discourages an attacker from going through the hassle and its not worth the effort.  However, in cyberspace many system values are abstract and the same calculus is not always applicable.  When this fails, _indirect costs_ such as economic sanctions arise as a proxy, though what does it mean to sanction a country because of rouge hackers within that nation? "[it] —should be recognized for what it is—the addition of weaker forms of punishment because robust costs cannot be credibly imposed."
+
+Instead, international security policy needs to break away from a mindset that is nearly 400 years old.  This new perspective should center around `Sabotage, Espionage, and Subversion`.  Mechanisms need to exist that constrain the blast radius and defend through innovation not troops.  The number of advisaries is increasing every day and these evolving challenges need different tools.
+
+###  How can we improve this scenario
+
+While deterrance in the physical world is a well understood problem, it does not apply to the digital universe.  The authors recommend instead that the US govt should be on a warpath, and operate as a persistent that "pwns for the lulz."  They suggest moving by transitioning away from restraint towards force, it recreates the notion of deterrence through real force.  While escalation in the physical world would result in physical war, in the digital world there attacks can turn off systems instead of destroy them.
+
+The authors also suggest that by embracing the lack of `sovereignty` across the Internet, they could freely move about with impunity.  What could possibly go wrong here?   While it is an interesting(?) idea, its suspecious that anyone would be safer.
 
 ## Cyber espionage. China's Cyber Power (2015)
 
