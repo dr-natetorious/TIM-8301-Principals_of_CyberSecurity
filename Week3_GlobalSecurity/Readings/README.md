@@ -169,8 +169,7 @@ The _European Union Agency for Network and Information Security_ is a guidebook 
 
 In _RUSI Journal: Royal United Services Institute for Defence Studies, 159(1), 86-93_; [Matsubara, M](CounteringCyberEspionage.pdf) reviews the partnerships between Japan and the UK around foreign policy and sharing national security concerns.
 
-> [B]oth countries must pursue balanced diplomacy and security strategies to meet their national defence requirements and to ensure supplies of external resources. [...] Since the Japanese and UK governments are pursuing stronger defence and economic partnerships,
-one country’s vulnerability in the cybersphere could pose a risk to the other, such as disruption to business or military operations. Thus, cyber-security co-operation is crucial for their economic prosperity, social welfare and national security.
+> [B]oth countries must pursue balanced diplomacy and security strategies to meet their national defence requirements and to ensure supplies of external resources. [...] Since the Japanese and UK governments are pursuing stronger defence and economic partnerships, one country’s vulnerability in the cybersphere could pose a risk to the other, such as disruption to business or military operations. Thus, cyber-security co-operation is crucial for their economic prosperity, social welfare and national security.
 
 ### Why are international partnerships complex
 
