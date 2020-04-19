@@ -58,7 +58,7 @@ These issues originate from poor configurations, software design flaws, code def
 
 While these approaches prevent legitimate businesses and research, it does not prevent malicious actors nor nation states.  Responsible research is necessary for the legitimate actors to build protections into their systems and create security guarentees.  When legislatures propose suing the vendors for allowing the defect in the first place, this is a slippery slope, because building error free applicaitons is near impossible.  Even relatively obvious issues are often only visible after the fact.  Another challenge with legal processes is that they move substantually slower than technical innovation, and are unlikely to keep pace with a rapidly evolving landscape.
 
-## China’s Three Warfares Strategy Mitigates Fallout From Cyber Espionage Activities (2016)
+## China's Three Warfares Strategy Mitigates Fallout From Cyber Espionage Activities (2016)
 
 In _Journal of Strategic Security, Vol 9, Iss 2, Pp 47-71 (2016)_; [Emilio, I](ChinaWarfare.pdf) states that China has three fronts to its cyberwarfares strategy: `media, legal, and psychological`-- and uses these to influence the international community and delay effective mitigations.  So far they have been fairly successful, delivering on time according to defense timelines and minimizing any real sactions.
 
@@ -121,7 +121,7 @@ After World War II (WWII), a similar mentality continues but from the perspectiv
 
 Instead, international security policy needs to break away from a mindset that is nearly 400 years old.  This new perspective should center around `Sabotage, Espionage, and Subversion`.  Mechanisms need to exist that constrain the blast radius and defend through innovation not troops.  The number of advisaries is increasing every day and these evolving challenges need different tools.
 
-###  How can we improve this scenario
+### How changes could exist
 
 While deterrance in the physical world is a well understood problem, it does not apply to the digital universe.  The authors recommend instead that the US govt should be on a warpath, and operate as a persistent that "pwns for the lulz."  They suggest moving by transitioning away from restraint towards force, it recreates the notion of deterrence through real force.  While escalation in the physical world would result in physical war, in the digital world there attacks can turn off systems instead of destroy them.
 
@@ -157,17 +157,17 @@ Countries that are more advanced have more attack surface and need more mature p
 
 ### What are policy continuums
 
-There are many aspects of security that represent policy continuums versus discrete yes/no decisions.  Consider data sharing vs protection and how they are at odds with each other.  Freedom of speech and govt stability also influence what are acceptable usages of products in `culturally sensitive contexts`.  Per country policy, the location within that continuum needs to account for [1] govenrment, [2] society, and [3] international actors-- where givening power to one requires taking it from the other two. 
+There are many aspects of security that represent policy continuums versus discrete yes/no decisions.  Consider data sharing vs protection and how they are at odds with each other.  Freedom of speech and govt stability also influence what are acceptable usages of products in `culturally sensitive contexts`.  Per country policy, the location within that continuum needs to account for [1] govenrment, [2] society, and [3] international actors-- where givening power to one requires taking it from the other two.
 
 ### How can we move towards commonality
 
-The _European Union Agency for Network and Information Security_ is a guidebook of best practices and that expert panels have proposed.  While there is no guarantee that nations will end at similar policies, having a common starting point results in similar themes.  Perceived costs and political disagreement prevent this model from being perfect.  However, by at incorporating shared values it simplifies future integrations and sharing processes across national borders. 
+The _European Union Agency for Network and Information Security_ is a guidebook of best practices and that expert panels have proposed.  While there is no guarantee that nations will end at similar policies, having a common starting point results in similar themes.  Perceived costs and political disagreement prevent this model from being perfect.  However, by at incorporating shared values it simplifies future integrations and sharing processes across national borders.
 
 ![enisa.png](enisa.png)
 
 ## Countering Cyber-Espionage and Sabotage (2014)
 
-In _RUSI Journal: Royal United Services Institute for Defence Studies, 159(1), 86-93_; [Matsubara, M](CounteringCyberEspionage.pdf) reviews the partnerships between Japan and the UK around foreign policy and sharing national security concerns. 
+In _RUSI Journal: Royal United Services Institute for Defence Studies, 159(1), 86-93_; [Matsubara, M](CounteringCyberEspionage.pdf) reviews the partnerships between Japan and the UK around foreign policy and sharing national security concerns.
 
 > [B]oth countries must pursue balanced diplomacy and security strategies to meet their national defence requirements and to ensure supplies of external resources. [...] Since the Japanese and UK governments are pursuing stronger defence and economic partnerships,
 one country’s vulnerability in the cybersphere could pose a risk to the other, such as disruption to business or military operations. Thus, cyber-security co-operation is crucial for their economic prosperity, social welfare and national security.
@@ -180,12 +180,12 @@ one country’s vulnerability in the cybersphere could pose a risk to the other,
 
 3. The Internet is borderless but its infrastructure is highly geographical and must adhere to nationally specific laws.  These laws often differ between the location of the attacker and victim, and require International cooperation to assembly sufficient evidence.  Getting access to that information is challenging due to a distrust between nationalities and concerns of disclosing vulnerabilities in their own topologies.
 
-## How can we improve the odds for success
+### How can we improve the odds for success
 
 > To overcome these complexities, therefore, any sound scheme for international cyber-security co-operation must begin with at least the following two foundational steps: [1] detailed scoping of the area for co-operation, including at least the general objectives,  specific types of information to be shared, according to which criteria and under what circumstances; and [2] the completion of a mutually credible agreement on information assurance to protect national secrets.
 
 If both organizations share the same `core political values`, there is a greater probability of overlapping outcomes.  For instance, when both nations can establish similar laws and legal definitions, then it becomes easier to share communications as the risks are comparable (e.g., intellectual property protections).
 
-## Where do these issues butt-heads
+### Where do these issues butt-heads
 
 The two most critical areas to overlap on agreement are: [1] cyber-espionage and [2] cyber-sabotage.  Even well intentioned deviations, like the CDC protecting membership rosters, creates a distrust between nations and impacts the flow of conversations.  Some nations, such as Japan, do not have a well-defined security clearance protocol, which can introduce challenges sharing even across departments.  There can also be multiple competing _sources of truth_, and this decentralized model can lead to ambigity. 

@@ -2,30 +2,36 @@
 
 ## Content Requirements
 
-Choose an organization that has 
-- exposure to international influences 
-- and budgets exceeding $100 million. 
+Choose an organization that has:
 
-This organization should have 
+- exposure to international influences
+- and budgets exceeding $100 million.
+
+This organization should have:
+
 - a presence on the web so that your academic readers can understand
 - the industry and the organization.
 
-For the selected organization, 
-1. analyze the cybersecurity risks faced from abroad, 
-2. detailing processes used to establish the risk, 
-3. enable threats, 
-4. and identify how there might be harmful to some parties. 
+For the selected organization:
 
-In addition, outline how 
-5. the organization can reduce these risks, 
-6. detailing people, products, or processes that could help with risk reduction. 
+- analyze the cybersecurity risks faced from abroad,
+- detailing processes used to establish the risk,
+- enable threats,
+- and identify how there might be harmful to some parties.
 
-Furthermore, 
-7. provide a rough estimate of the total resources needed
-8. and their potential cost. 
+In addition, outline how:
 
-Finally, 
-9. explain how you might acquire access to the resources to execute your proposed cyber defenses.
+- the organization can reduce these risks,
+- detailing people, products, or processes that could help with risk reduction.
+
+Furthermore:
+
+- provide a rough estimate of the total resources needed
+- and their potential cost.
+
+Finally:
+
+- explain how you might acquire access to the resources to execute your proposed cyber defenses.
 
 ## Standard Requirements
 
