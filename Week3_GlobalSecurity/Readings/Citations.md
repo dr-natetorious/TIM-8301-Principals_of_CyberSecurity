@@ -6,7 +6,7 @@ In _Emory Law Journal; 2017, Vol. 66 Issue 3, p513-525, 13p_; [Banks, W](CyberEs
 
 ## The Role of Healthcare Technology Management in Facilitating Medical Device Cybersecurity (2017)
 
-n _Biomedical instrumentation & technology 2017 Sep 02; Vol. 51 (s6), pp. 19-25._; [Busdicker, M; Upendra, P](MedicalDeviceSecurity.pdf) discusses the need for lifecycle management across the entire supply chain.
+n _Biomedical Instrumentation & Technology 2017 Sep 02; Vol. 51 (s6), pp. 19-25._; [Busdicker, M; Upendra, P](MedicalDeviceSecurity.pdf) discusses the need for lifecycle management across the entire supply chain.
 
 ## Unhackable quantum networks take to space [News] (2017)
 
@@ -20,7 +20,7 @@ In _Jurimetrics: The Journal of Law, Science & Technology. Summer2017, Vol. 57 I
 
 In _Journal of Strategic Security, Vol 9, Iss 2, Pp 47-71 (2016)_; [Emilio, I](ChinaWarfare.pdf) discusses the physcological, media, and legal battlefronts of Chinas cyberwarfare.
 
-## CyberSecurity -- the No. 1 threat facing manufacturers (2018)
+## CyberSecurity -- the No. 1 Threat Facing Manufacturers (2018)
 
 In _Industrial Management. Jul/Aug2018, Vol. 60 Issue 4, p24-27. 4p._; [Erickson, A; Neilson, T](CyberSecurityManufactures.pdf) discusses risks associated with global manufacturing.
 

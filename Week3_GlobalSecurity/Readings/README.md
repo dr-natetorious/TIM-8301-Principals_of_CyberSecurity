@@ -40,7 +40,7 @@ In _IEEE Spectrum (Volume: 54 , Issue: 8 , August 2017), pp. 12-13_; [Choi, C](Q
 
 In [TIM-7020 Week 6](https://github.com/dr-natetorious/TIM-7020-Database_and_Business_Intelligence/tree/master/Week6_CuttingEdge_Proposal), a detailed analysis of Quantum technologies is available and how these concepts can be applied to software design patterns.  
 
-## ZERO-DAY RESPONSIBILITY: THE BENEFITS OF A SAFE HARBOR FOR CYBERSECURITY RESEARCH (2017)
+## Zero-Day Responsibility: the Benefits of a Safe Harbor for Cybersecurity Research (2017)
 
 In _Jurimetrics: The Journal of Law, Science & Technology. Summer2017, Vol. 57 Issue 4, p483-503. 21p._; [Emery, A](ZeroDayResponsibility.pdf) states that zero-day exploits, _there are zero days in which to prepare for the threat_, are openly sold on the internet.  The national defence department and criminal organizations, purchase large quantities of these issues for survaillence.  A core challenge with regulating this industry is that it requires an overhaul of the cybersecurity laws, so the authors propose leveraging tort laws (see [LAW531 Week 2](https://github.com/dr-natetorious/LAW-531_Business_Law/tree/master/Week2_Torts)).  Another challenge comes from `awareness` that these zero-day attacks are launched against individuals, corporations, and governments through _spray attacks_ (eg., drive by exploitation) and there is significant risk.
 
@@ -75,7 +75,7 @@ China has a culture that centers around building relations and showing good face
 actions and dissuade an adversary from pursuing actions contrary to China’s interests.
 - *Legal Warfare* – Uses international and domestic law to claim the legal high ground or assert Chinese interests. It can be employed to hamstring an adversary’s operational freedom and shape the operational space. Legal warfare is also intended to build international support and manage possible political repercussions of China’s military actions.
 
-## CYBERSECURITY -- the No. 1 threat facing manufacturers (2018)
+## CyberSecurity -- the No. 1 threat facing manufacturers (2018)
 
 In _Industrial Management. Jul/Aug2018, Vol. 60 Issue 4, p24-27. 4p._; [Erickson, A; Neilson, T](CyberSecurityManufactures.pdf) states that manufactures are a primary target for cybersecurity attacks and need to be aware of the risks.  Many manufactures do not believe that they are at risk and this makes them vulnerable.
 
@@ -135,7 +135,7 @@ In _Adelphi Series (Vol. 55, pp. 51-82)_; [Inkster, N](ChinaCyberPower.pdf) desc
 
 In _Political Geography Volume 46, May 2015, Pages 11-20_; [Kaiser, R](BirthCyberwar.pdf) before 2007, the idea of cyberwar was more theortical risk than an actuality, when events in Tallinn "fired the imagination."  Part of the reason why this event gained such attention is that _Live Free, or Die Hard_ was playing in theatres at the time.  The movie features Bruce Willis versus a cybersecurity ex-military villian that compromises the US infrastructure -- which was very similar to the events occurring in Tallinn (Estonia).  After handling those attacks and gaining wide spread media attention, Estonia became the global experts for dealing with an attack.
 
-## CYBER SECURITY POLICY AND STRATEGY IN THE EUROPEAN UNION AND NATO. (2018)
+## Cyber Security Policy and Strategy in the European Union and NATO (2018)
 
 In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 1, p16-24. 9p._; [Kovacs, L](PolicyStrategyEuropeanUnion.pdf) recalls that in 2008 Europe needed a forward looking strategy to get out of the Great Recession.  A core pillar of the Europe 2020 program centered around a digital economy that was safe, secure, and highly reliable.  
 
@@ -149,7 +149,7 @@ In 2013, the European Security Strategy formalized these ambitions, specifically
 
 The security posture of the EU continues to evolve from these expectations, including such policies as General Data Protection Regulation (GDPR), which seeks to protect the soverignty of the EU by allowing it to enforce legal mandates.  Since the infrastructure is local to their nation this becomes much easier and avoids the need to fight with international laws.
 
-## NATIONAL CYBER SECURITY AS THE CORNERSTONE OF NATIONAL SECURITY (2018)
+## National Cybersecurity as the Cornerstone of National Security (2018)
 
 In _Revista Academiei Fortelor Terestre. 2018, Vol. 23 Issue 2, p113-120. 8p._; [Kovacs, L](CyberSecurityCornerstone.pdf) points out that each nation is independently creating a cybersecurity strategy, and a lack of consistency causes there to be gaps in the implementations.  This issues really comes back to another pivot of the Internet has no borders but the infrastructer does very much so.
 
