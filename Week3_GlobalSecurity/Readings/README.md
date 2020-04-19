@@ -1,6 +1,6 @@
 # Readings
 
-## CYBER ESPIONAGE AND ELECTRONIC SURVEILLANCE: BEYOND THE MEDIA COVERAGE (2017)
+## Cyber Espionage and Electronic Surveillance: Beyond the Media Coverage (2017)
 
 In _Emory Law Journal; 2017, Vol. 66 Issue 3, p513-525, 13p_; [Banks, W](CyberEspionageBeyondMedia.pdf) describes the duality of the Internet as both a mechanism for increasing communication while decreasing privacy.  Espionage attacks occur in high volumes against individuals, corporations, and nations.  These attackers steal intellectual property, something that was not taken seriously until the 2007 theft of Google's source code.
 
