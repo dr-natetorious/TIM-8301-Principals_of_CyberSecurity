@@ -187,4 +187,4 @@ If both organizations share the same `core political values`, there is a greater
 
 ### Where do these issues butt-heads
 
-The two most critical areas to overlap on agreement are: [1] cyber-espionage and [2] cyber-sabotage.  Even well intentioned deviations, like the CDC protecting membership rosters, creates a distrust between nations and impacts the flow of conversations.  Some nations, such as Japan, do not have a well-defined security clearance protocol, which can introduce challenges sharing even across departments.  There can also be multiple competing _sources of truth_, and this decentralized model can lead to ambigity. 
+The two most critical areas to overlap on agreement are: [1] cyber-espionage and [2] cyber-sabotage.  Even well intentioned deviations, like the CDC protecting membership rosters, creates a distrust between nations and impacts the flow of conversations.  Some nations, such as Japan, do not have a well-defined security clearance protocol, which can introduce challenges sharing even across departments.  There can also be multiple competing _sources of truth_, and this decentralized model can lead to ambigity.
