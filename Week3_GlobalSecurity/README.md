@@ -6,7 +6,15 @@
 
 ## What is the central idea
 
-When an organization seeks to do business in a foreign market, they need to understand the `security guarantees and assertions` of that new environment might differ from their `native locale`.  Some foreign markets more robust assertions that require upgrading our products to include encryption and related privacy features.  In contrast, others have weak guarantees, such as rampant cyber espionage, sabotage, and subversion, and are less desirable to share trade secrets.  An assessment of these risks needs to find a cost-benefit balance for accessing that market without compromising the integrity, confidentiality, and availability of the organization.  That balance might come from reducing the available feature set, or declining the deal entirely. While it can be challenging to navigate these foreign policies, businesses that come with skepticism and security awareness are more likely to be successful.  *That awareness needs to be cognizant of the different geographics of trust that exist across markets, and not treat the Internet as one homogeneous locale*.
+The Internet does not exist as a single homogeneous global communication tool, but as collection of islands where different nations express their sovereignty through trade-offs between govt oversight, societal freedoms, and international actors rights.  These decisions create a geography with varying degrees of transparency and confidentiality assurances.
+
+According to Article 51 of the UN, state actors are free to perform cyber-espionage under the disguise of self-defense.  While capitalist countries believe this stops at govt spying on govt, socialist and authoritarian nations lack a clear division between public and private industries and do not honor the distinction.
+
+Therefore,  when an organization seeks to do business in a foreign market, they need to understand the `security guarantees and assertions` of that new environment might differ from their `native locale` and assess the global risk that come from these interactions.
+
+Some foreign markets more robust assertions that require upgrading our products to include encryption and related privacy features.  In contrast, others have weak guarantees, such as rampant cyber espionage, sabotage, and subversion, and are less desirable to share trade secrets.  
+
+An assessment of these risks needs to find a cost-benefit balance for accessing that market without compromising the integrity, confidentiality, and availability of the organization.  That balance might come from reducing the available feature set, or declining the deal entirely. While it can be challenging to navigate these foreign policies, businesses that come with skepticism and security awareness of the different geographics trusts that exist across markets, and not treat the Internet as one homogeneous locale.
 
 ## Expressing this abstractly
 
