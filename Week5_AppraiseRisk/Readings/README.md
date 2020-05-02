@@ -23,6 +23,27 @@ T. Combass and A. Shilling, "[Integrating cybersecurity into NAVAIR OTPS acquisi
 
 ## Towards a Theoretical Foundation of IT Governance - The COBIT 5 case (2015)
 
+> COBIT, (Control Objectives for Information and Information related Technologies) as an IT governance framework [that] analyses the complete IS function and offers descriptive and normative support to manage, govern and audit IT in organizations.
+
+There is critism of the framework due to not being founded in academic research.  The authors assess the framework from the perspective of We looked at three candidate theories: [1] Stakeholder Theory (SHT), [2] Principal Agent Theory (PAT), and [3] Technology Acceptance Model (TAM).  They found that PAT and SHT back many assertions of the effort and provide academic theory to the conversation.
+
+What are the principals of COBIT:
+
+1. Meeting Stakeholder Needs
+2. Covering the Enterprise End-to-end
+3. Applying a Single, Integrated Framework
+4. Enabling a Holistic Approach
+5. Separating Governance From Management
+
+What are the processes of COBIT:
+
+|Domain |Type of Domain| Number of processes|
+|Evaluate Direct and Monitor (EDM)| Governance |5|
+|Align, Plan and Organize (APO) |Management |13|
+|Build, Acquire and Implement (BAI)| Management |10|
+|Deliver, Service and Support (DSS)| Management |6|
+|Monitor, Evaluate and Assess (MEA)| Management |3|
+
 Devos J, Van de Ginste K. [Towards a Theoretical Foundation of IT Governance - The COBIT 5 case](FoundationGovernance.pdf). _Electronic Journal of Information Systems Evaluation_. 2015;18(2):95. https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=109261833&site=eds-live. Accessed May 2, 2020.
 
 ## What are the actual costs of cyber risk events? (2019)
