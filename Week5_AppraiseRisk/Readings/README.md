@@ -4,6 +4,19 @@
 
 Richard Baskerville, Frantz Rowe, and François-Charles Wolff. 2018. [Integration of Information Systems and Cybersecurity Countermeasures: An Exposure to Risk Perspective](IntegratingCountermeasures.pdf). _SIGMIS Database_ 49, 1 (February 2018), 33–52. DOI:https://doi.org/10.1145/3184444.3184448.
 
+When disjoined system become more tightly integrated it reduces management overhead and provides greater insight across the value-chain.  However, these additional systems increase the attack surface and this creates a need for additional protections (e.g., defense in depth).  For instance, two decoupled web servers run the risk that one becomes compromised.  After joining the systems to have shared levels of access to resources, the risk more than doubles as compromising one instantly compromises the other.  My claim that its more than double comes from the opaqueness that these different product groups could be responsible for the different sites.  Administrators need to understand those elevation paths across ever more complex topologies, especially given the shift toward abstract network borders.
+
+> An information system vulnerability is the intersection of three conditions: (1) system susceptibility, such as a design or implementation flaw; (2) threat accessibility, such as system access points or services; (3) threat capability, such as an opponent with the knowledge and resources to discover, access, and exploit a flaw (Brumley et al., 2008; Hughes &
+Cybenko, 2014). [...] Cybersecurity can remove vulnerabilities by eliminating one or more of these three conditions.
+
+The authors state that as systems become more integrated the interfaces between them are standardized, and this pivots the conversation _from vulnerabilities to vulnerabile points_.  These points are more manageable through self-protection instead of relying on risk insurance, transferance and avoidance strategies.  When a countermeasure can be `self-protected` it creates a need for specific targeted mitigations against specific scenarios versus more generalize risks.
+
+![integration_countermeasures.png](integration_countermeasures.png)
+
+> The body of evidence above indicates that increasing information systems integration is being accompanied by increasing attention to acquisition of cybersecurity technologies. [...] Integration without cybersecurity or with fewer cybersecurity investments due to fewer vulnerability points may no longer be the option.
+
+![integration_conclusions.png](integration_conclusions.png)
+
 ## Integrating cybersecurity into NAVAIR OTPS acquisition (2016)
 
 T. Combass and A. Shilling, "[Integrating cybersecurity into NAVAIR OTPS acquisition](NavAirOTPSAcquisition.pdf)," 2016 IEEE AUTOTESTCON, Anaheim, CA, 2016, pp. 1-5.
@@ -15,6 +28,12 @@ Devos J, Van de Ginste K. [Towards a Theoretical Foundation of IT Governance - T
 ## What are the actual costs of cyber risk events? (2019)
 
 Eling, M and Wirfs, J. [What are the actual costs of cyber risk events?](ActualCostsRiskEvent.pdf). _European Journal of Operational Research_. 2019;272(1). Pages 1109-1119.
+
+> Cyber risks are high on the business agenda of every company, but they are difficult to assess due to the absence of reliable data and thorough analyses.
+
+Finding specific data about the cost of security impact is complex because businesses are not incentivized to report it accurately or timely.  The authors mitigate this limitation by looking at cyber risk as operational risks to info-tech assets.  By classifying cyberrisk as a subcategory of operational risk, they can derive similarities of the superset on the subset.  Next they calculated a probabilites distributions for loss significants and likelihood to model the entire industry.  This approach handles tail risk by using a [generalized Pareto distribution](https://en.wikipedia.org/wiki/Generalized_Pareto_distribution).
+
+![cyberrisk_costs.png](cyberrisk_costs.png)
 
 ## Improving the quality of information security management systems with ISO27000 (2011)
 
