@@ -71,6 +71,10 @@ OGÎGĂU-NEAMȚIU F, MOGA H. [A Cyber Threat Model of a Nation Cyber Infrastruct
 
 Quigley, K., Burns, C., & Stallard, K.. (2015). [Cyber Gurus](CyberGurusLanguage.pdf). _Government Information Quarterly_. Volume 32. pp108-117. https://doi.org/10.1016/j.giq.2015.02.001
 
+The authors perform an analysis of the stylistic choices of publication experts on cyberrisks from main stream media, academic, and technical journals.  They found that the language has a tendancy to spark dread or uncertainty that plays on the reads emotions.  For instance, describing cyberrisk as a battlefield and using militaristic imagiary.  While this sells click through advertising it does not properly frame the discussion.
+
+Instead, they propose that we position risk for what it actually is... a decision to trade cost for benefit.  While there are many risks in the world, that are all real possibilities, many are unlikely.  For instance, a co-worker could come to work and begin shooting everyone.  Yes, this does happen but the more likely scenario, is that frustrated employees steal and find comparable strategies to "get even."  If these risks are taken as equivalent probabilities, then significant resources are wasted protecting against the improbable instead of hardening for the more common scenario. 
+
 ## Global Cybersecurity: New Directions in Theory and Methods (2018)
 
 Tim Stevens. [Global Cybersecurity: New Directions in Theory and Methods](GlobalSecurityNewDirection.pdf). Politics and Governance. 2018;6(2):1-4. doi:10.17645/pag.v6i2.1569.
