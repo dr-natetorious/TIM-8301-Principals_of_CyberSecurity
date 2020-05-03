@@ -21,6 +21,26 @@ The authors state that as systems become more integrated the interfaces between 
 
 T. Combass and A. Shilling, "[Integrating cybersecurity into NAVAIR OTPS acquisition](NavAirOTPSAcquisition.pdf)," 2016 IEEE AUTOTESTCON, Anaheim, CA, 2016, pp. 1-5.
 
+The objective of DoD acquisition lifecycle is to [1] categorize risk, [2] define safeguards, [3] implement security controls, [4] assess those controls, [5] provide a formal review to stakeholders, [6] annually repeat the process.  This approach is similar to the software development lifecycle though more specialized for procurement rather than custom built systems.  Ensuring high standards are consistently delivered centers around OTPS requirements (e.g., has access controls and auditing) that must implement RMF (e.g., those controls minimize attack surface).
+
+So many acronyms...
+
+- Naval Air Systems Command (NAVAIR)
+- The Operational Test Program Set (OTPS)
+- Risk Management Framework (RMF):
+  1. risk categorization
+  2. control selection
+  3. control implementation
+  4. security control assessment
+  5. authorization
+  6. monitoring
+- Department of Defense Information Technology Security Certification and Accreditation Process (DITSCAP)
+  - all IT assets are in scope
+  - phases: definition, verification, validation and post accreditation
+  - independent of the lifecycle or current phase of the asset
+
+![rfm_process.png](rfm_process.png)
+
 ## Towards a Theoretical Foundation of IT Governance - The COBIT 5 case (2015)
 
 > COBIT, (Control Objectives for Information and Information related Technologies) as an IT governance framework [that] analyses the complete IS function and offers descriptive and normative support to manage, govern and audit IT in organizations.
@@ -59,6 +79,27 @@ Finding specific data about the cost of security impact is complex because busin
 ## Improving the quality of information security management systems with ISO27000 (2011)
 
 Gillies, A. (2011). [Improving the quality of information security management systems with ISO27000](QualityManagementISO27000.pdf). _TQM Journal_, 23(4), 367-376. doi:http://dx.doi.org.proxy1.ncu.edu/10.1108/17542731111139455
+
+> The ISO27001 standard provides a model for "establishing, implementing, operating, monitoring, reviewing, maintaining and improving an Information Security Management System
+(ISMS)".
+
+The authors state that adoption of the ISO standard has been slow with half of certificated businesses having less than 200 employees and half of those under 50.  One of the core challenges is overcoming the culture changes necessary to embrace the restrictions.  Cost is also a limiting factor, though there can be benefits to the business demonstrating their products meet more strict security control standards.
+
+![iso27000.png](iso27000.png)
+
+The horizontal dimension of the matrix is determined by the advice given in the code of ISO27002 code of practice. This gives rise to 11 dimensions:
+
+(1) Security policy.
+(2) Organization of information security.
+(3) Asset management.
+(4) Human resources security.
+(5) Physical and environmental security.
+(6) Communications and operations management.
+(7) Access control.
+(8) Information systems acquisition, development and maintenance.
+(9) Information security incident management.
+(10) Business continuity management.
+(11) Compliance with legal and regulatory frameworks
 
 ## Evolution of the Cybersecurity Framework (2018)
 
