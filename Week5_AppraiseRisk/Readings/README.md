@@ -104,6 +104,8 @@ The horizontal dimension of the matrix is determined by the advice given in the 
 
 ## Evolution of the Cybersecurity Framework (2018)
 
+Grohmann A. [Evolution of the Cybersecurity Framework](EvolutionSecurityFramework.pdf). _ISSA Journal_. 2018;16(7):14-18. https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=tsh&AN=130572679&site=eds-live. Accessed May 2, 2020.
+
 There are many security frameworks, what makes the `NIST Cybersecurity Framework` unique is that it outlines the methodology of how to approach risk management.  Previous standards were far more perscriptive and this often causes a disconnect between the risk tolerance of the organization and the security framework.
 
 > This is an important distinction; it is the organization that defines what level they expect the control to meet, based on the level of risk that they are willing to accept, which is driven by applying a cost-benefit analysis to their own situation. In other words, the security leadership can customize their controls by building a common control framework that meets their specific requirements and risks.
@@ -111,8 +113,6 @@ There are many security frameworks, what makes the `NIST Cybersecurity Framework
 ![nist_framework.png](nist_framework.png)
 
 Users of the framework can choose their `tier and profiles` to align with _neccessary level of sophistication_, as a consistent approach to understanding how they should approach decisions.  For instance, a bank and local public library both need to defend their digital presence but have very different risk profiles.  If the library website becomes compromised its annoying, versus the bank has financial impact.
-
-Grohmann A. [Evolution of the Cybersecurity Framework](EvolutionSecurityFramework.pdf). _ISSA Journal_. 2018;16(7):14-18. https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=tsh&AN=130572679&site=eds-live. Accessed May 2, 2020.
 
 ## Model-based approach for cyber-physical attack detection in water distribution systems (2018)
 
@@ -148,9 +148,9 @@ The authors provide a mathmatical model for the likelihood that an attacker will
 
 ## Enacting Expertise: Ritual and Risk in Cybersecurity (2018)
 
-The authors explore the notion that there is a 2M gap in the number of cybersecurity professionals needed to fill job requirements.  They drill into this assertion by asking what skills are these businesses attempting to acquire?  Part of the challenge comes from there being a lack of formally trained experts as this is not the culture.  Unlike doctors and physicians the "hacker culture" tends to focus more on social aspects for dissemnation of knowledge.  Ex-military professionals tend to be more prominent, in part due to a overlap of the the skill set with the expectations of standardized certifications.
-
 Shires, J.(2018). [Enacting Expertise: Ritual and Risk in Cybersecurity](EnactingExpertise.pdf). _Politics and Governance_. 2018;6(2):31-40 (2018). https://doaj.org/toc/2183-2463.
+
+The authors explore the notion that there is a 2M gap in the number of cybersecurity professionals needed to fill job requirements.  They drill into this assertion by asking what skills are these businesses attempting to acquire?  Part of the challenge comes from there being a lack of formally trained experts as this is not the culture.  Unlike doctors and physicians the "hacker culture" tends to focus more on social aspects for dissemnation of knowledge.  Ex-military professionals tend to be more prominent, in part due to a overlap of the the skill set with the expectations of standardized certifications.
 
 ## Enterprise Technology Risk in a New COSO ERM World: Eight Challenges Facing Management (2018)
 

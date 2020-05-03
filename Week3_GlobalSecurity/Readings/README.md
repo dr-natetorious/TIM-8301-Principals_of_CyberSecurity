@@ -157,7 +157,7 @@ Countries that are more advanced have more attack surface and need more mature p
 
 ### What are policy continuums
 
-There are many aspects of security that represent policy continuums versus discrete yes/no decisions.  Consider data sharing vs protection and how they are at odds with each other.  Freedom of speech and govt stability also influence what are acceptable usages of products in `culturally sensitive contexts`.  Per country policy, the location within that continuum needs to account for [1] govenrment, [2] society, and [3] international actors-- where givening power to one requires taking it from the other two.
+There are many aspects of security that represent policy continuums versus discrete yes/no decisions.  Consider data sharing vs protection and how they are at odds with each other.  Freedom of speech and govt stability also influence what are acceptable usages of products in `culturally sensitive contexts`.  Per country policy, the location within that continuum needs to account for [1] gpvernment, [2] society, and [3] international actors-- where givening power to one requires taking it from the other two.
 
 ### How can we move towards commonality
 
