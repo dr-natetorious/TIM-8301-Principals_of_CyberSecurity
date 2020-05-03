@@ -58,7 +58,7 @@ What are the principals of COBIT:
 What are the processes of COBIT:
 
 |Domain |Type of Domain| Number of processes|
-|-------||-------------|--------------------|
+|-------|-------------|--------------------|
 |Evaluate Direct and Monitor (EDM)| Governance |5|
 |Align, Plan and Organize (APO) |Management |13|
 |Build, Acquire and Implement (BAI)| Management |10|
