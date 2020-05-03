@@ -117,9 +117,19 @@ Grohmann A. [Evolution of the Cybersecurity Framework](EvolutionSecurityFramewor
 
 Housh, M and Ohar, Z. (2018). [Model-based approach for cyber-physical attack detection in water distribution systems](WaterSystemSecurity.pdf). _Water Research_, Volume 139, 132-143. https://doi.org/10.1016/j.watres.2018.03.039
 
+> Modern Water Distribution Systems (WDSs) are often controlled by Supervisory Control and Data
+Acquisition (SCADA) systems and Programmable Logic Controllers (PLCs) which manage their operation
+and maintain a reliable water supply.
+
+The paper presented was the winning algorithm from [batadal.net](https://batadal.net) as explained by this [marketing video](https://youtu.be/dEvtsZNrCSQ).
+
+![water_alarm.png](water_alarm.png)
+
 ## Multiple cyber attacks against a target with observation errors and dependent outcomes: Characterization and optimization (2017)
 
 Hu et al.(2017). [Multiple cyber attacks against a target with observation errors and dependent outcomes: Characterization and optimization](MultiAttackOptimization.pdf). _Reliability Engineering and System Safety_, Volume 159, 119-133. https://doi.org/10.1016/j.ress.2016.10.025
+
+The authors provide a mathmatical model for the likelihood that an attacker will continue assaulting a resource based on the costs to launch the attack.  Not going to lie... this was really math heavy and i zoned out half way through.  There's a lot of value in building these models and applying them but at 10pm on a saturday will have to come back later.
 
 ## Enacting Expertise: Ritual and Risk in Cybersecurity (2018)
 
@@ -146,9 +156,25 @@ Lanz J. [Enterprise Technology Risk in a New COSO ERM World: Eight Challenges Fa
 
 Myriam Dunn Cavelty. [Cybersecurity Research Meets Science and Technology Studies](ScienceMeetsTechnology.pdf). _Politics and Governance_. 2018;6(2):22-30. doi:10.17645/pag.v6i2.1385.
 
+The authors claim that security is often framed as a technology problem, though it is largely a people problem... ala:  _if we take away the technology, the problems still exist_.  They continue by exploring the different `perspectives of security from social and politicial lens`.  The distrotion is reduced by exploring publications about vulnerability research and cyber social sciences, to build a map of how these concepts could converge.
+
+> Two dominant perspectives were identified. The first sees cybersecurity as the practice of fixing broken objects and the second sees cybertechnologies as tools to further political goals. With relatively little overlap between them, the first view neglects social construction and meaning-making processes whereas the second focuses too much on preconceived notions of politics and security, with too little knowledge of how the materiality of the artifacts constrains their use. What we therefore need for innovative cybersecurity research is to combine both perspectives at the intersection between the technical and the social to the greater benefit of both communities
+
 ## A Cyber Threat Model of a Nation Cyber Infrastructure Based on Goel-Okumoto Port Approach (2018)
 
 OGÎGĂU-NEAMȚIU F, MOGA H. [A Cyber Threat Model of a Nation Cyber Infrastructure Based on Goel-Okumoto Port Approach](ThreatModelNationalInfrastructure.pdf). Revista Academiei Fortelor Terestre. 2018;23(1):75-87. https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=a9h&AN=128789548&site=eds-live. Accessed May 2, 2020.
+
+The COL Warden's theory describes 5-rings that make up national structure: 
+- The military cyber infrastructure component; 
+- The social media cyber infrastructure component;
+- The economic and system essential cyber infrastructure component; 
+- The governmental cyber infrastructure component
+
+They continue to describe a model that uses Nash Equaliberium to assume that the attacker and defender will apply rational decisions while seeking to get the upper hand.  These actions will include different strategies such as espionage, disruption and destruction, subversion, and exploitation.  
+
+The authors expand on this idea with a collection of utility functions that describe attack vectors into the 5-ring model, and claim that the weakest link should be attacked as that has the highest change of distrubting the Nash state.
+
+![five_rings.png](five_rings.png)
 
 ## ‘Cyber Gurus’: A rhetorical analysis of the language of cybersecurity specialists and the implications for security policy and critical infrastructure protection (2015)
 
@@ -161,3 +187,18 @@ Instead, they propose that we position risk for what it actually is... a decisio
 ## Global Cybersecurity: New Directions in Theory and Methods (2018)
 
 Tim Stevens. [Global Cybersecurity: New Directions in Theory and Methods](GlobalSecurityNewDirection.pdf). Politics and Governance. 2018;6(2):1-4. doi:10.17645/pag.v6i2.1569.
+
+> From obscure technical origins in computer science and information security, cybersecurity has emerged as a major political consideration for states, multilateral organizations, firms and civil society in the
+early twenty-first century.
+
+There are lots of forward looking ideas for `future studies`.
+
+- Cybersecurity is abstract and means many things
+- Most cyber studies lack empirical data
+- Who does cyber serve and whats its true intent
+- How do we protect network boundaries if they are abstract
+- Can actor-network theory bridge the gap between social and technological artefacts
+- Socialogical sites and ritualized subcultures
+- Are security products expression of govt, self, society, or business
+- How do we produce and use quality cyber data for empericical studies
+- Are there philosophical aspects that need to revisiting
