@@ -131,6 +131,20 @@ Hu et al.(2017). [Multiple cyber attacks against a target with observation error
 
 The authors provide a mathmatical model for the likelihood that an attacker will continue assaulting a resource based on the costs to launch the attack.  Not going to lie... this was really math heavy and i zoned out half way through.  There's a lot of value in building these models and applying them but at 10pm on a saturday will have to come back later.
 
+- Characteristics of attack cost
+  - `P(D)` increases with `n`-successful observations
+  - `P(D)` decreases with `b`-false positive observations
+  - Given two related attaks, defender can observe first and block second
+- Expected attack costs
+  - The cost for `j` attacks is `sum{ T[0..j] }`
+- Influence on P(D) when unknown structures
+  - `P(D)` is bound to `n and b`, other structures lack strong influences
+- Influence on resource allocation
+  - When `P(D)` is high and `n` is low; then use everything
+  - Else dynamic allocations are more efficient
+
+![multi_attack_symbols.png](multi_attack_symbols.png)
+
 ## Enacting Expertise: Ritual and Risk in Cybersecurity (2018)
 
 The authors explore the notion that there is a 2M gap in the number of cybersecurity professionals needed to fill job requirements.  They drill into this assertion by asking what skills are these businesses attempting to acquire?  Part of the challenge comes from there being a lack of formally trained experts as this is not the culture.  Unlike doctors and physicians the "hacker culture" tends to focus more on social aspects for dissemnation of knowledge.  Ex-military professionals tend to be more prominent, in part due to a overlap of the the skill set with the expectations of standardized certifications.
