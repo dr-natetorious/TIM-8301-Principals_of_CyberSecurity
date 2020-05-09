@@ -56,6 +56,10 @@ To get out of the this state there needs to be a fundamental pivot, that focuses
 
 Friedberg, I., McLaughlin, K., Smith, P., Laverty, D., & Sezer, S. (2017). STPA-SafeSec: Safety and security analysis for cyber-physical systems. Journal of Information Security and Applications Volume 34, Part 2, June 2017, Pages 183-196. [https://doi.org/10.1016/j.jisa.2016.05.008](https://doi.org/10.1016/j.jisa.2016.05.008). Journal: [SafeSec.pdf](SafeSec.pdf)
 
+The authors propose that critical vulnerabilities in cyber-physical processes are often untreated because they lack understanding of scope.  They propose a framework that centers around safetey analsyis to gain these insights and associate an appropriate prioritization level.
+
+![stpa_process.png](stpa_process.png)
+
 ## Combining cybersecurity and cyber defense to achieve cyber resilience (2017)
 
 Galinec, D., & Steingartner, W. (2017). Combining cybersecurity and cyber defense to achieve cyber resilience. Paper presented at the 14th International Scientific Conference on Informatics.  14-16 Nov. 2017 Poprad, Slovakia. Published by IEEE.  [https://doi.org/10.1109/INFORMATICS.2017.8327227](https://doi.org/10.1109/INFORMATICS.2017.8327227). Conference Paper: [CyberResilience.pdf](CyberResilience.pdf)
