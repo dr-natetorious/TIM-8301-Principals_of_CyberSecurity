@@ -41,6 +41,17 @@ Table 1. The Importance of Security Matters for Organizations:
 
 Dunn Cavelty M. Breaking the cyber-security dilemma: aligning security needs and removing vulnerabilities. Science and engineering ethics. 2014;20(3):701-715. doi:10.1007/s11948-014-9551-y. Journal: [BreakingCyberDilemma.pdf](BreakingCyberDilemma.pdf)
 
+The author describes how the global expense on security continues to rise, however there are more vulnerabilities and the ecosystem is inheritely less secure.  They point to a growing need of actors (e.g., national states) to put their political agenda ahead of peoples rights (see Kovac week3).  Instead, there needs to be a stronger focus on the human aspect and framing of what security means for the enduser.
+
+> I trace two elements: the specificities of the `threat` and the related `referent object` (that which is seen in need of protection). In any political process, the definition of
+referent objects is not only closely connected to how a danger is viewed, it also is an unavoidable decision since any danger discourse must be tied to some kind of endangered entity to become meaningful (Hagmann and Dunn Cavelty 2012).  What is shown in this chapter is that the `human` is presented as a direct threat in the form of the (evil) hacker, the inadequate software developer or system administrator, but is hardly ever a specific and direct referent object of security.
+
+Vulnerabilities exist across all aspects of the networking ecosystem due to a collection of reasons, such as the time pressure to quickly deliver commercial software.  This results in a lot of edges being cut along the way.  There can also be economic incentives to keep things insecure, as big data collection enables the business to taylor marketing campaigns more efficiently.
+
+To get out of the this state there needs to be a fundamental pivot, that focuses on `human security` instead of `technology security`.  It is not possible to seperate the people from the tooling, but instead there needs to policies that considers the needs of both resources.  At odds against this position are national states that seek to force their political agendas under the disguise of national security.
+
+> It has been suspected for a while and is now confirmed that the intelligence services of this world are making cyberspace more insecure directly; in order to be able to have more access to data, and in order to prepare for future conflict. It has been revealed that the NSA has bought and exploited so-called zero-day vulnerabilities in current operating systems and hardware to inject NSA malware into numerous strategically opportune points of the Internet infrastructure (Greenwald and MacAskill 2013).
+
 ## STPA-SafeSec: Safety and security analysis for cyber-physical systems (2017)
 
 Friedberg, I., McLaughlin, K., Smith, P., Laverty, D., & Sezer, S. (2017). STPA-SafeSec: Safety and security analysis for cyber-physical systems. Journal of Information Security and Applications Volume 34, Part 2, June 2017, Pages 183-196. [https://doi.org/10.1016/j.jisa.2016.05.008](https://doi.org/10.1016/j.jisa.2016.05.008). Journal: [SafeSec.pdf](SafeSec.pdf)
@@ -48,6 +59,46 @@ Friedberg, I., McLaughlin, K., Smith, P., Laverty, D., & Sezer, S. (2017). STPA-
 ## Combining cybersecurity and cyber defense to achieve cyber resilience (2017)
 
 Galinec, D., & Steingartner, W. (2017). Combining cybersecurity and cyber defense to achieve cyber resilience. Paper presented at the 14th International Scientific Conference on Informatics.  14-16 Nov. 2017 Poprad, Slovakia. Published by IEEE.  [https://doi.org/10.1109/INFORMATICS.2017.8327227](https://doi.org/10.1109/INFORMATICS.2017.8327227). Conference Paper: [CyberResilience.pdf](CyberResilience.pdf)
+
+The authors suggest that we need to combine `cybersecurity` and `information security` in a manner that results in `cyber resilience`.  As discussed numerous times, there is not a consistent definition of cybersecurity and terminalogies have evolved over time from militaristic and private sector adoptions. _With breaches on the rise, companies should focus on cyber resilience, not just cyber security_ (pg. 89).
+
+> While there are many broader definitions of cybersecurity, there is a difference between the access control of cybersecurity and the more strategic, long-term thinking cyber resilience should evoke. Additionally, since vulnerability in one area can compromise the entire network, resilience requires a conversation focused on systems rather than individual organizations.
+
+![resilience_model.png](resilience_model.png)
+
+### What definitions do the authors provide
+
+- **Cybersecurity** is the governance, development, management and use of information security, OT security, and IT security tools and techniques for achieving regulatory
+compliance, defending assets and compromising the assets of adversaries.
+- **Cyber Defense** is a computer network defense mechanism which includes response to actions and critical infrastructure protection and information
+assurance for organizations, government entities and other possible networks.
+- **Cyber resilience** is the ability of a system, organization, mission, or business process to anticipate, withstand, recover from, and adapt capabilities in the face of adversary conditions, stresses, or attacks on the cyber resources it needs to function.
+
+### What challenges require more visibility
+
+> While the cost of defending cyber structures as well as the payoffs from successful attacks keeps rising, the cost of launching an attack simultaneously keeps decreasing [7]. [...] If there isn’t sufficient visibility of cyber security status, organizations won’t be able to manage cyber security risks and they will almost certainly suffer a breach.
+
+Only by pulling together all of the relevant indicators and partial views we can develop overall risk-based measurement and visibility of our cyber security status:
+
+- Be able to identify risks that we aren’t prepared to tolerate and have a clear and prioritized risk-based action plan for the control improvements necessary to reduce these risks to an acceptable level
+- To have a better understanding of the implications from threat intelligence or outputs from SIEM and data analytics allowing faster, better targeted responses
+- To develop risk-based justifications for investment in cyber security solutions and services.
+
+### What emerging risks need consideration
+
+`Future Studies Note`: Page 90 contains an extensive list of Garden 2020 predictions
+
+- 99% of vulnerabilities could be prevented through patch management
+- 33% of successful attacks could be prevented through _e a culture of acceptance and protection versus detection and punishment_
+- 20% of businesses will prevent data breaches in the cloud by adopting of security governance policies
+- 40% will engage in devops models of self-diagnostics and protections
+- 80% of services will broker into the cloud
+- 60% of mobile apps will adopt native containment versus third-party solutions
+- 40% of authorization will be from IDaaS
+- 55% decreased use of password and token use in medium risk use cases
+- 50% of IoT manufactures will not address threats of weak authentication
+- 25% of enterprise attacks will involve IoT
+- 10% of security buget will go toward IoT mitigations
 
 ## The impact of information sharing on cybersecurity underinvestment: A real options perspective (2015)
 
