@@ -1,0 +1,7 @@
+# Risk Mitigation and Control
+
+When determining risk, you typically consider `the information assets, vulnerabilities, and threats`. This week's focus is _the reduction of risk—meaning the reduced chance of any risk and the reduced consequences should any risk succeed in causing losses in any form_. The implication is that nearly all areas of cybersecurity studies would play a role in this week's learning.
+
+Approach this week's content as a refresher of the previous weeks and the opportunity to integrate this week's new content with all the other content you've already gleaned in this course. You know that there will `never be enough resources` to thoroughly eliminate all risks. Therefore, it becomes important to consider the `relative importance of the different risk contributors, the impact should it occur, and the cost of mitigation`. Throughout your learning, this week, focus on critical thinking, prioritization, and synthesis of your learning. You need to consider a `strategic solution` so that you can `optimize the reduction of risk and consequences`. Do not forget `disaster recovery and business continuity`. It would be a good idea to complement your learning with a review of `business impact analysis, business continuity, and disaster recovery`.
+
+Carefully consult all of the learning provided for this week. There are many areas where you can retrieve key items of knowledge that are vital to the assignments and your career.
