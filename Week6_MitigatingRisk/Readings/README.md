@@ -9,8 +9,7 @@ Histrocially attackers have gone after the networking topology directly, however
 
 ### Why does traditional security mitigation fail
 
-> Historically, organizations have relied on perimeter defenses to keep their networks and data secure. Unfortunately, network firewalls and network vulnerability scanners cannot defend against application-level attacks. By design, web applications permit unknown users to interact with data and systems. This interaction passes through network
-defense mechanisms such as firewalls and intrusion detection systems, leaving business vulnerable to malicious attacks.
+> Historically, organizations have relied on perimeter defenses to keep their networks and data secure. Unfortunately, network firewalls and network vulnerability scanners cannot defend against application-level attacks. By design, web applications permit unknown users to interact with data and systems. This interaction passes through network defense mechanisms such as firewalls and intrusion detection systems, leaving business vulnerable to malicious attacks.
 
 ### How much does an incident cost
 
@@ -93,7 +92,7 @@ Only by pulling together all of the relevant indicators and partial views we can
 `Future Studies Note`: Page 90 contains an extensive list of Garden 2020 predictions
 
 - 99% of vulnerabilities could be prevented through patch management
-- 33% of successful attacks could be prevented through _e a culture of acceptance and protection versus detection and punishment_
+- 33% of successful attacks could be prevented through _a culture of acceptance and protection versus detection and punishment_
 - 20% of businesses will prevent data breaches in the cloud by adopting of security governance policies
 - 40% will engage in devops models of self-diagnostics and protections
 - 80% of services will broker into the cloud
