@@ -204,8 +204,7 @@ Instead, they propose that we position risk for what it actually is... a decisio
 
 Tim Stevens. [Global Cybersecurity: New Directions in Theory and Methods](GlobalSecurityNewDirection.pdf). Politics and Governance. 2018;6(2):1-4. doi:10.17645/pag.v6i2.1569.
 
-> From obscure technical origins in computer science and information security, cybersecurity has emerged as a major political consideration for states, multilateral organizations, firms and civil society in the
-early twenty-first century.
+> From obscure technical origins in computer science and information security, cybersecurity has emerged as a major political consideration for states, multilateral organizations, firms and civil society in the early twenty-first century.
 
 There are lots of forward looking ideas for `future studies`.
 
