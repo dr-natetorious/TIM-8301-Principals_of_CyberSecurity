@@ -72,18 +72,34 @@ Interestingly, despite the malware source code being freely available on the net
 
 Kshetri, N. (2017). Blockchain's roles in strengthening cybersecurity and protecting privacy. Telecommunications Policy, 41, 1027-1038. [https://doi.org/10.1016/j.telpol.2017.09.003](https://doi.org/10.1016/j.telpol.2017.09.003).  [BlockChainPrivacy.pdf](BlockChainPrivacy.pdf).
 
+Blockchain offers protections against data becoming tampered or stolen, due to the decentralized and replicated nature of the ledger.  For an attacker to defeat this mitigation, they would need control of 51% of the nodes.  The multi-signature solution has other potential implications for IoT devices and end-user privacy, specifically around replay and spoofing attacks.
+
+However, as other authors have noted (e.g., Hunt week 1), end-users do not understand these protections and that introduces challeges surfacing to higher levels.  If the technology targets lower-levels (e.g., machine to machine)-- there are complexities with the depth of the ledger, especially in dynamic environments (see TIM-7010).  Targeting protocols in the middle, like DNS would be prohibitively expensive and that has led to competing approaches like DNSSec.
+
 ## Economic solutions to improve cybersecurity of governments and smart cities via vulnerability markets (2018)
 
 Li, Z., & Liao, Q. (2018). Economic solutions to improve cybersecurity of governments and smart cities via vulnerability markets. Government Information Quarterly
 Volume 35, Issue 1, January 2018, Pages 151-160. [https://doi.org/10.1016/j.giq.2017.10.006](https://doi.org/10.1016/j.giq.2017.10.006).  [EconomicSolutions.pdf](EconomicSolutions.pdf).
 
+The innovation rate in smart city and mobile development is occuring faster than security tooling to ensure the confidentiality, integrity, and availability of those services.  The authors state that this is because of economic incentives that discourage investments into security systems -- ala. _customers buy features, not protections_.  They propose changes in policies that could skew the calculus, such that external actors are less likely to sell the vulnerability.
+
+![economic_incentive.png](economic_incentive.png)
+
 ## Deployment of cybersecurity for managing traffic efficiency and safety in smart cities (2017)
 
 Li, Z., & Shahidehpour, M. (2017). Contemporary strategies for microgrid operation & control: Deployment of cybersecurity for managing traffic efficiency and safety in smart cities. The Electricity Journal Volume 30, Issue 4, May 2017, Pages 52-61. [https://doi.org/10.1016/j.tej.2017.04.003](https://doi.org/10.1016/j.tej.2017.04.003). [ManageTrafficSmartCity.pdf](ManageTrafficSmartCity.pdf).
 
+Metropolitan areas that adopt traffic management technologies as part of a smart city strategy can reduce congestion and route vehicles more efficient.  However, this also recreates scenarios where an attacker can manipulate the state, such as improving their route at the expense of other drivers.
+
+![traffic_subsystem.png](traffic_subsystem.png)
+
 ## Kill switches, remote deletion, and intelligent agents (2017)
 
 Oravec, J. A. (2017). Kill switches, remote deletion, and intelligent agents: Framing everyday household cybersecurity in the Internet of Things. Technology in Society Volume 51, November 2017, Pages 189-198. [https://doi.org/10.1016/j.techsoc.2017.09.004](https://doi.org/10.1016/j.techsoc.2017.09.004). [KillSwitches.pdf](KillSwitches.pdf).
+
+There is a growing divide between product ownership and product control, such that manufactures have remote rights through the service integrations.  For instance, a coffee maker might offer a particular flavor one month, then through Digital Media Rights revoke that option later.  While the device still has the capability to produce that flavor, the functionality is disabled -- making for a radically different paradym shift.
+
+This leads into a series of interesting privacy concerns as more complex functionality also needs to remote into the cloud.  Who is listening to our Alexa commands?  Perhaps the users trust Amazon or naively believe there's too many requests to find something of interest (the needle in a haystack theory).  That perspective is flawed, as big data technologies can act as a magnet -- sucking out the needle with ease.
 
 ## Normative challenges of identification in the Internet of Things: Privacy, profiling, discrimination, and the GDPR (2018)
 
@@ -97,3 +113,7 @@ Wang, P., Yu, G., Wu, X., Qin, H., & Wang, Y. (2018). An extended car-following 
 ## Cybersecurity in the Internet of Things: Legal aspects (2016)
 
 Weber, R. H., & Studer, E. (2016). Cybersecurity in the Internet of Things: Legal aspects. Computer Law & Security Review Volume 32, Issue 5, October 2016, Pages 715-728. [https://doi.org/10.1016/j.clsr.2016.07.002](https://doi.org/10.1016/j.clsr.2016.07.002). [IoT_LegalAspects.pdf](IoT_LegalAspects.pdf).
+
+Creating universal regulations across IoT devices is a very challenging topic, due to different political values (see Week 3).  The Budapest Converntion of 2001 was the first ambitious effort to standardize international law, but it fell short of that goal.  For instance, underdeveloped countries lacked the technical expertice to meet the standard and lacked any real representation in the process either way.  Some contries felt that it did not go far enough, and mandated a higher miniumum bar -- negating the value of having a single solution.  Many modern attack vectors are not covered, such as ransomware making the entire process out of touch with the current state of the world.
+
+There are also unavoidable limitations that will not be overcome from decades if ever.  For instance, an 8-bit micro-controller can be mass produced extremely cheaply and so there is a lot of value using this technology in light sensors.  However, it does not have the processing capabilities to implement industry-grade encryption.  Given this constraint, how could these controllers ever meet any reasonable expectation of AAA (authentication, authorization, and auditing) -- let alone transport encryption?
