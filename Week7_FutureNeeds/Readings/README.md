@@ -80,8 +80,7 @@ However, as other authors have noted (e.g., Hunt week 1), end-users do not under
 
 ## Economic solutions to improve cybersecurity of governments and smart cities via vulnerability markets (2018)
 
-Li, Z., & Liao, Q. (2018). Economic solutions to improve cybersecurity of governments and smart cities via vulnerability markets. Government Information Quarterly
-Volume 35, Issue 1, January 2018, Pages 151-160. [https://doi.org/10.1016/j.giq.2017.10.006](https://doi.org/10.1016/j.giq.2017.10.006).  [EconomicSolutions.pdf](EconomicSolutions.pdf).
+Li, Z., & Liao, Q. (2018). Economic solutions to improve cybersecurity of governments and smart cities via vulnerability markets. Government Information Quarterly Volume 35, Issue 1, January 2018, Pages 151-160. [https://doi.org/10.1016/j.giq.2017.10.006](https://doi.org/10.1016/j.giq.2017.10.006).  [EconomicSolutions.pdf](EconomicSolutions.pdf).
 
 The innovation rate in smart city and mobile development is occuring faster than security tooling to ensure the confidentiality, integrity, and availability of those services.  The authors state that this is because of economic incentives that discourage investments into security systems -- ala. _customers buy features, not protections_.  They propose changes in policies that could skew the calculus, such that external actors are less likely to sell the vulnerability.
 
@@ -113,7 +112,7 @@ Wang, P., Yu, G., Wu, X., Qin, H., & Wang, Y. (2018). An extended car-following 
 
 ## Cybersecurity in the Internet of Things: Legal aspects (2016)
 
-Weber, R. H., & Studer, E. (2016). Cybersecurity in the Internet of Things: Legal aspects. Computer Law & Security Review Volume 32, Issue 5, October 2016, Pages 715-728. [https://doi.org/10.1016/j.clsr.2016.07.002](https://doi.org/10.1016/j.clsr.2016.07.002). [IoT_LegalAspects.pdf](IoT_LegalAspects.pdf).
+Weber, R. H., & Studer, E. (2016). Cybersecurity in the Internet of Things: Legal aspects. Computer Law & Security Review. Volume 32, Issue 5, October 2016, Pages 715-728. [https://doi.org/10.1016/j.clsr.2016.07.002](https://doi.org/10.1016/j.clsr.2016.07.002). [IoT_LegalAspects.pdf](IoT_LegalAspects.pdf).
 
 Creating universal regulations across IoT devices is a very challenging topic, due to different political values (see Week 3).  The Budapest Converntion of 2001 was the first ambitious effort to standardize international law, but it fell short of that goal.  For instance, underdeveloped countries lacked the technical expertice to meet the standard and lacked any real representation in the process either way.  Some contries felt that it did not go far enough, and mandated a higher miniumum bar -- negating the value of having a single solution.  Many modern attack vectors are not covered, such as ransomware making the entire process out of touch with the current state of the world.
 
