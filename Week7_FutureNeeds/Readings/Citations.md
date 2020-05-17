@@ -58,6 +58,8 @@ Even mission critical systems, such as military CPS technologies requires sourci
 
 Furfaro, A., Argento, L., Parise, A., & Piccolo, A. (2017). Using virtual environments for the assessment of cybersecurity issues in IoT scenarios. Simulation Modelling Practice and Theory Volume 73, April 2017, Pages 43-54. [https://doi.org/10.1016/j.simpat.2016.09.007](https://doi.org/10.1016/j.simpat.2016.09.007). [VirtualEnvironmentAssessSecurityIssues.pdf](VirtualEnvironmentAssessSecurityIssues.pdf).
 
+The authors discuss `SMALLWORLD`, a virtualization platform, as mechanism to monitor the interactions between real/virtual devices.  This approach enables them to map out the exploitation of malware in a safe simulation and better understand its behavior.  A strength of this solution, is that it can _detect malicious devices and quarintine_ them vs _manually isolating critical devices_.  Using automation in this scenario could improve the chances that a resource are not missed, due to erroneous procedures.
+
 ## DDoS in the IoT: Mirai and other botnets (2017)
 
 Kolias, C., Kambourakis, G., Stavrou, A., & Voas, J. (2017). DDoS in the IoT: Mirai and other botnets. Computer, 50(7), 80-84. [https://doi.org/10.1109/MC.2017.201](https://doi.org/10.1109/MC.2017.201). [DDos_in_IoT.pdf](DDos_in_IoT.pdf).
