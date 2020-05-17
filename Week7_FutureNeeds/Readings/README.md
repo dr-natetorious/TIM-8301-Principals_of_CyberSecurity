@@ -105,8 +105,7 @@ This leads into a series of interesting privacy concerns as more complex functio
 
 ## Normative challenges of identification in the Internet of Things: Privacy, profiling, discrimination, and the GDPR (2018)
 
-Wachter, S. (2017). Normative challenges of identification in the Internet of Things: Privacy, profiling, discrimination, and the GDPR. Computer Law & Security Review
-Volume 34, Issue 3, June 2018, Pages 436-449. [https://doi.org/10.1016/j.clsr.2018.02.002](https://doi.org/10.1016/j.clsr.2018.02.002). [ChallengesIdentificationIoT.pdf](ChallengesIdentificationIoT.pdf).
+Wachter, S. (2017). Normative challenges of identification in the Internet of Things: Privacy, profiling, discrimination, and the GDPR. Computer Law & Security Review Volume 34, Issue 3, June 2018, Pages 436-449. [https://doi.org/10.1016/j.clsr.2018.02.002](https://doi.org/10.1016/j.clsr.2018.02.002). [ChallengesIdentificationIoT.pdf](ChallengesIdentificationIoT.pdf).
 
 ## An extended car-following model to describe connected traffic dynamics under cyberattacks (2018)
 
