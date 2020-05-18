@@ -1,4 +1,4 @@
-# Future Needs
+# Future Needs - IoT
 
 The Internet of Things (IoT) represents the next evolutionary step in communication and system connectivity.  Naïve outsiders see this industry as a series of gimmicks, Apple watches, and smart toasters.  Those statements are true, but more importantly, it also creates the missing bridge between cyber and physical systems (CPS).  This capability comes from sensor and input networks that emit telemetry into ubiquitous cloud computing and machine learning platforms.  Using physical motors and actuators, artificial intelligence and big data solutions can then reach back into manufacturing and safety systems.  As information and decision processes transact across this bridge, it enables organizations to execute expert workflows autonomously and prevent costly failures.  However, many challenges exist around ensuring the confidentiality, integrity, and availability (CIA) of all participants of this system.
 
