@@ -2,7 +2,7 @@
 
 ## Integration of Information Systems and Cybersecurity Countermeasures: An Exposure to Risk Perspective (2018)
 
-Richard Baskerville, Frantz Rowe, and François-Charles Wolff. 2018. [Integration of Information Systems and Cybersecurity Countermeasures: An Exposure to Risk Perspective](IntegratingCountermeasures.pdf). _SIGMIS Database_ 49, 1 (February 2018), 33–52. DOI:https://doi.org/10.1145/3184444.3184448.
+Richard Baskerville, Frantz Rowe, and François-Charles Wolff. 2018. [Integration of Information Systems and Cybersecurity Countermeasures: An Exposure to Risk Perspective](IntegratingCountermeasures.pdf). _SIGMIS Database_ 49, 1 (February 2018), 33–52. [https://doi.org/10.1145/3184444.3184448](https://doi.org/10.1145/3184444.3184448).
 
 When disjoined system become more tightly integrated it reduces management overhead and provides greater insight across the value-chain.  However, these additional systems increase the attack surface and this creates a need for additional protections (e.g., defense in depth).  For instance, two decoupled web servers run the risk that one becomes compromised.  After joining the systems to have shared levels of access to resources, the risk more than doubles as compromising one instantly compromises the other.  My claim that its more than double comes from the opaqueness that these different product groups could be responsible for the different sites.  Administrators need to understand those elevation paths across ever more complex topologies, especially given the shift toward abstract network borders.
 
