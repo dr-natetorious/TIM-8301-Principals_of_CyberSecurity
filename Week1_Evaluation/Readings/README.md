@@ -20,6 +20,8 @@ The number one point of failure continues to be the human, as this is easier to 
 
 ## Commentary: Collaborating to Achieve a Mutual Cybersecurity Advantage (2017)
 
+Hagestad B, Straumann A. Commentary: Collaborating to Achieve a Mutual Cybersecurity Advantage. Biomedical instrumentation & technology. 2017;51(1):34-39. doi:10.2345/0899-8205-51.1.34.
+
 In _Biomedical Instrumentation & Technology [Biomed Instrum Technol] 2017 Jan-Feb; Vol. 51 (1), pp. 34-39._; [Hagestad, B; Straumann, A](MutualSecurityAdvantage.pdf) describes the _health care medical device landscape_, as having poor security configuration and are not frequently upgaded.  These devices have access to the hospital networks and can become an high risk attack vector.  The manufactures and the health care industry need to define processes that increase protections.
 
 Part of the problem is due to inefficient budgets, while other aspects are due to poor defaults (e.g., allowing FTP/telnet versus SFTP/SSH), and training also play a large part.
