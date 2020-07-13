@@ -79,6 +79,8 @@ actions and dissuade an adversary from pursuing actions contrary to China’s in
 
 In _Industrial Management. Jul/Aug2018, Vol. 60 Issue 4, p24-27. 4p._; [Erickson, A; Neilson, T](CyberSecurityManufactures.pdf) states that manufactures are a primary target for cybersecurity attacks and need to be aware of the risks.  Many manufactures do not believe that they are at risk and this makes them vulnerable.
 
+Url: [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=a9h&AN=130596152&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=a9h&AN=130596152&site=eds-live.).
+
 > Hackers largely target the manufacturing industry to steal trade secrets, business plans and valuable intellectual property.
 
 ### How are they being attacked

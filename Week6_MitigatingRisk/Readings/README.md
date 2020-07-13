@@ -13,8 +13,7 @@ Histrocially attackers have gone after the networking topology directly, however
 
 ### How much does an incident cost
 
-> Approximately 72 percent of exposed companies employed 100 or fewer individuals, [and encountered an] average cost of a data breach was $5.5 million in 2011, according to the 2011 Cost of Data Breach report.  Recovery costs following a breach typically stem from investigating the cause of the breach; notifying customers or employees affected; managing inquiries
-from those affected; public relations; legal defense; regulatory proceedings; fines and penalties; and credit or identity monitoring.
+> Approximately 72 percent of exposed companies employed 100 or fewer individuals, [and encountered an] average cost of a data breach was $5.5 million in 2011, according to the 2011 Cost of Data Breach report.  Recovery costs following a breach typically stem from investigating the cause of the breach; notifying customers or employees affected; managing inquiries from those affected; public relations; legal defense; regulatory proceedings; fines and penalties; and credit or identity monitoring.
 
 ### What causes security incidents and what mitigations are important
 
