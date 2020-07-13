@@ -16,4 +16,4 @@ This course is an overview of security principles and practices to support execu
 ## Presentations
 
 - [Week 2](Week2_PeopleAspects/BachmeierNTIM8301-2.pptx): Role of People, Processes, Products
-- [CAPSTONE](Week8_OrgNeedsPresentation/BachmeierNTIM8301-8.pptx): Present an Integrated Strategic to Executive Leadership
+- [CAPSTONE](Week8_OrgNeedsPresentation/BachmeierNTIM8301-8.pptx): Present an Integrated Strategic Plan to Executive Leadership
